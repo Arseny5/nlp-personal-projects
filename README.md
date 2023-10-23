@@ -1,3 +1,3 @@
-# sber_nlp_course
+# My 10 projects with actitecture Transformer for NLP tasks
 
-![image](social_network.jpeg)
+![image](transformers.png)
