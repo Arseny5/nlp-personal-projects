@@ -1,7 +1,7 @@
-# My 10 projects with arcitecture Transformer for NLP tasks
+# My 10 projects with architecture Transformer for NLP tasks
 ![image](transformers.png)
 
 ### Implemented projects
-1) [Vanilla Transformer](https://github.com/leffff/south-park-character-generation/blob/main/models/AE.ipynb)
-2) [BERT analyzing](https://github.com/leffff/south-park-character-generation/blob/main/models/VAE.ipynb)
+1) [Vanilla Transformer](https://github.com/Arseny5/nlp-personal-projects/tree/main/03-bert-for-NER)
+2) [BERT analyzing](https://github.com/Arseny5/nlp-personal-projects/tree/main/03-bert-for-NER)
 3) [Using rubert-tiny2 work with NER-problem on Russian Drug Reaction Corpus](https://github.com/Arseny5/nlp-personal-projects/tree/main/03-bert-for-NER)
