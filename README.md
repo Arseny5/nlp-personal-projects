@@ -1,4 +1,4 @@
-# 10 projects with architecture Transformer for NLP tasks
+# My 10 projects with transformer architecture for NLP tasks
 ![image](transformers.png)
 
 ### Implemented projects
