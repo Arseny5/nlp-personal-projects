@@ -12,4 +12,3 @@
    - Using [rubert-tiny2](https://huggingface.co/cointegrated/rubert-tiny2) work with Named Entity Recognition on [Russian Drug Reaction Corpus](https://github.com/cimm-kzn/RuDReC).
    - Use [Seqeval](https://github.com/chakki-works/seqeval) framework to compute metrics.
    - Freeze layers in rubert-tiny2 and fine-tune model.
-5) GPT2 generation with different strategies
