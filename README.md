@@ -2,7 +2,7 @@
 ![image](transformers.png)
 
 ### Implemented projects
-1) [Vanilla Transformer - /01-implement-vanilla-transformer](https://github.com/Arseny5/nlp-personal-projects/tree/main/01-implement-vanilla-transformer):
+1) [01-implement-vanilla-transformer](https://github.com/Arseny5/nlp-personal-projects/tree/main/01-implement-vanilla-transformer):
    - Implementation vanilla transformer from encoder-decoder classes to positional encoding, self-attention, multi-head attention, residual connections and layer normalization.
    - Using [WMT 2014](https://huggingface.co/datasets/wmt14) English-German and English-French datasets solve text translation problem.
    - Analyze Label Smoothing in transformer classification using KLDiv loss.
