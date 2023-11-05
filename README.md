@@ -8,7 +8,7 @@
    - Analyze Label Smoothing in transformer classification with KLDiv loss.
    - Using [Tatoeba Russian-English](https://huggingface.co/datasets/tatoeba) dataset solve text translation problem.
 3) [BERT analyzing](https://github.com/Arseny5/nlp-personal-projects/tree/main/03-bert-for-NER)
-4) [NER-problem with BERT](https://github.com/Arseny5/nlp-personal-projects/tree/main/03-bert-for-NER):
+4) <b>[NER-problem with BERT](https://github.com/Arseny5/nlp-personal-projects/tree/main/03-bert-for-NER):</b>
    - Using [rubert-tiny2](https://huggingface.co/cointegrated/rubert-tiny2) work with Named Entity Recognition on [Russian Drug Reaction Corpus](https://github.com/cimm-kzn/RuDReC).
    - Use [Seqeval](https://github.com/chakki-works/seqeval) framework to compute metrics.
    - Freeze layers in rubert-tiny2 and fine-tuning model.
