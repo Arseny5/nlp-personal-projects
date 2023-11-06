@@ -5,7 +5,7 @@
 1) <b>[Implementation transformer model](https://github.com/Arseny5/nlp-personal-projects/tree/main/01-implement-vanilla-transformer):</b>
    - Implementation vanilla transformer from encoder-decoder classes to positional encoding, self-attention, multi-head attention, feed-forward network, residual connections and layer normalization.
    - Using [WMT 2014](https://huggingface.co/datasets/wmt14) English-German and English-French datasets solve text translation problem.
-   - Analyze Label Smoothing in transformer classification with KLDiv loss.
+   - Analyze Label Smoothing in transformer with KLDiv loss.
    - Using [Tatoeba Russian-English](https://huggingface.co/datasets/tatoeba) dataset solve text translation problem.
 3) <b>[BERT analyzing](https://github.com/Arseny5/nlp-personal-projects/tree/main/02-bert-models-analyze):</b>
    - Work with Byte-pair-encoding and Word-piece tokenizers.
